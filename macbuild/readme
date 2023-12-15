@@ -1,0 +1,2 @@
+build code: clang++ -std=c++17 hello.cpp -o prog `./wx-config --cxxflags --libs`
+chạy file: ./prog
